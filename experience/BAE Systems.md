@@ -9,7 +9,16 @@ bullets:
   - "Did a thing 3"
   - "Did another thing 3"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+- Led VMEC interns in their projects (2018, 2019, )
+- MBIST Wafer and Module Testing for RAD5545
+- JTAG Corelis
+- UVM Verification for UART, on RAD510
+- 
+
+Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
 
 
 https://honorscollege.gmu.edu/news/2019-10/electrical-engineering-major-leads-initiative-towards-more-eco-friendly-mason
+
+
+- 

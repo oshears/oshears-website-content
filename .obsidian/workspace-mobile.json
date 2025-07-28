@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/index.md",
+                "file": "experience/George Mason University.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "George Mason University"
             }
           }
         ]
@@ -153,12 +153,14 @@
   },
   "active": "88cb3feb75e67e5c",
   "lastOpenFiles": [
+    "experience/BAE Systems.md",
+    "index/index.md",
+    "draft",
     "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
     "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
     "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
     "projects/Independent Functional Testing for FPGAs.md",
     "experience/Virginia Tech.md",
-    "experience/BAE Systems.md",
     "experience/George Mason University.md",
     "experience/USC Information Sciences Institute.md"
   ]
