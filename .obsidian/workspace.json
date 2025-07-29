@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Independent Functional Testing for FPGAs.md",
+                "file": "index/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Independent Functional Testing for FPGAs"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "87d299d8ad1b3c3e",
   "lastOpenFiles": [
+    "projects/Independent Functional Testing for FPGAs.md",
     "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
     "index/index.md",
     "cv/cv.md",
@@ -183,7 +184,6 @@
     "experience/Wyzant Tutoring.md",
     "services/services.md",
     "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
-    "projects/Independent Functional Testing for FPGAs.md",
     "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
     "experience/Virginia Tech.md",
     "experience/USC Information Sciences Institute.md",

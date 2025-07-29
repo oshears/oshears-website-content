@@ -3,7 +3,7 @@ title: "Private Tutor"
 company: "Wyzant"
 location: "Remote"
 startDate: "2017-05-01"
-image: "/profile.jpg"
+image: "/osaze_tutoring.jpg"
 bullets:
   - "Private tutor specializing in computer science, computer engineering and programming languages"
   - "Subjects include Verilog, VHDL, Java, Python, C, C++, Swift/Xcode, and Calculus"
