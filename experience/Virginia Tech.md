@@ -1,21 +1,48 @@
 ---
-title: "Graduate Research Assistant"
+title: "Graduate Research Assistant (GRA)"
 company: "Virginia Tech"
-location: "City, Country"
-startDate: "2022-01-01"
-endDate: "2023-01-01"
+location: "Blacksburg, Virginia"
+startDate: "2020-08-01"
+endDate: "2022-05-01"
 image: "/vt_team.jpg"
 bullets:
-  - "Did a thing 2"
-  - "Did another thing 2"
+  - "Researching under the Multifunctional Integrated Circuits and Systems (MICS) Lab"
+  - "Studying neuromorphic computing implementations on digital integrated circuits"
+  - "Collaborating with other graduate students to develop next generation machine learning hardware leveraging neuromorphic computing"
+  - "Mentoring a team of 4 undergraduate students in researching digital neuromorphic computing, machine learning, and reservoir computing"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
 
+As a Graduate Research Assistant at Virginia Tech's Electrical and Computer Engineering Department, I conducted research under the Multifunctional Integrated Circuits and Systems (MICS) Lab. My work focused on studying neuromorphic computing implementations on digital integrated circuits and collaborating with fellow graduate students to develop next-generation machine learning hardware leveraging neuromorphic computing.
 
-https://www.researchgate.net/profile/Osaze-Shears
+### Education
 
-https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e9e944e2-5079-4193-bad7-76ee89833cfe/content
+**M.S. in Computer Engineering** (August 2020 - May 2022)
+Virginia Polytechnic Institute and State University
 
+My graduate studies covered advanced topics in:
 
-O. Shears, K. Bai, L. Liu and Y. Yi, "A Hybrid FPGA-ASIC Delayed Feedback Reservoir System to Enable Spectrum Sensing/Sharing for Low Power IoT Devices ICCAD Special Session Paper," 2021 IEEE/ACM International Conference On Computer Aided Design (ICCAD), Munich, Germany, 2021, pp. 1-9, doi: 10.1109/ICCAD51958.2021.9643536.
-https://ieeexplore-ieee-org.libproxy1.usc.edu/document/9643536
+- Spiking Neural Networks
+- Hardware Acceleration
+- SoC Design with ASICs and FPGAs
+- Deep Learning
+- Edge Computing
+
+### Teaching Experience
+
+I also served as a **Graduate Teaching Assistant (GTA)** from August 2020 to May 2021, providing:
+
+- Weekly office hours and remote support for students in ECE 2514: Computational Engineering
+- Grading and logistical support for ECE 2514: Computational Engineering
+
+### Leadership & Mentoring
+
+During my time at Virginia Tech, I mentored a team of 4 undergraduate students in researching digital neuromorphic computing, machine learning, and reservoir computing, helping to guide the next generation of engineers in this exciting field.
+
+### Awards & Recognition
+
+- **ECE Department Bradley Fellowship** (January 2020) - Awarded by Virginia Tech's Electrical and Computer Engineering Department
+
+### Related Links
+
+- [ResearchGate Profile](https://www.researchgate.net/profile/Osaze-Shears)
+- [VTechWorks Thesis](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/e9e944e2-5079-4193-bad7-76ee89833cfe/content)

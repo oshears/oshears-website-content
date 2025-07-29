@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experience/BAE Systems.md",
+                "file": "projects/Independent Functional Testing for FPGAs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BAE Systems"
+              "title": "Independent Functional Testing for FPGAs"
             }
           }
         ]
@@ -171,22 +171,29 @@
   },
   "active": "87d299d8ad1b3c3e",
   "lastOpenFiles": [
+    "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
+    "index/index.md",
+    "cv/cv.md",
+    "experience/BAE Systems.md",
+    "blog/technical-skills-expertise.md",
+    "blog/my-engineering-journey.md",
+    "blog/project-lens-robotic-eye-system.md",
+    "blog/hybrid-fpga-asic-reservoir-system.md",
+    "blog/bladerf-delayed-feedback-reservoir.md",
+    "experience/Wyzant Tutoring.md",
     "services/services.md",
     "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
-    "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
     "projects/Independent Functional Testing for FPGAs.md",
     "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
     "experience/Virginia Tech.md",
     "experience/USC Information Sciences Institute.md",
     "experience/George Mason University.md",
-    "experience/BAE Systems.md",
     "images/test-image.jpg",
     "images/README.md",
     "images",
     "projects/project3.md",
     "projects/project2.md",
     "projects/project1.md",
-    "index/index.md",
     "experience/experience4.md",
     "experience/experience3.md",
     "experience/experience2.md",
