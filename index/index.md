@@ -1,5 +1,5 @@
 ---
-greeting: "Hey There! 👋🏽"
+greeting: "Hey There! 😎"
 name: "I'm Osaze Shears"
 title: "FPGA-ASIC Design and Verification Engineer"
 introduction: ""
