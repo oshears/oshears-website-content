@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experience/George Mason University.md",
+                "file": "index/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "George Mason University"
+              "title": "index"
             }
           }
         ]
@@ -153,6 +153,13 @@
   },
   "active": "88cb3feb75e67e5c",
   "lastOpenFiles": [
+    "experience/George Mason University.md",
+    "blog/bladerf-delayed-feedback-reservoir.md",
+    "blog/project-lens-robotic-eye-system.md",
+    "blog/hybrid-fpga-asic-reservoir-system.md",
+    "blog/technical-skills-expertise.md",
+    "blog/my-engineering-journey.md",
+    "experience/Wyzant Tutoring.md",
     "experience/BAE Systems.md",
     "index/index.md",
     "draft",
@@ -161,7 +168,6 @@
     "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
     "projects/Independent Functional Testing for FPGAs.md",
     "experience/Virginia Tech.md",
-    "experience/George Mason University.md",
     "experience/USC Information Sciences Institute.md"
   ]
 }
