@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index/index.md",
+                "file": "cv/cv.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "cv"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of services"
             }
+          },
+          {
+            "id": "a35541219cda61bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,32 +181,33 @@
   },
   "active": "87d299d8ad1b3c3e",
   "lastOpenFiles": [
+    "experience/Colvin Run.md",
+    "experience/George Mason University.md",
+    "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
+    "gamedev/Synthicate.md",
+    "gamedev/Skeleton Hell.md",
+    "gamedev/Lonnie's Fishtank.md",
+    "experience/Wyzant Tutoring.md",
+    "experience/Virginia Tech.md",
+    "experience/USC Information Sciences Institute.md",
+    "experience/BAE Systems.md",
+    "blog/draft-example.md",
+    "index/index.md",
     "projects/Independent Functional Testing for FPGAs.md",
     "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
-    "index/index.md",
     "cv/cv.md",
-    "experience/BAE Systems.md",
     "blog/technical-skills-expertise.md",
     "blog/my-engineering-journey.md",
     "blog/project-lens-robotic-eye-system.md",
     "blog/hybrid-fpga-asic-reservoir-system.md",
     "blog/bladerf-delayed-feedback-reservoir.md",
-    "experience/Wyzant Tutoring.md",
     "services/services.md",
     "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
-    "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
-    "experience/Virginia Tech.md",
-    "experience/USC Information Sciences Institute.md",
-    "experience/George Mason University.md",
     "images/test-image.jpg",
     "images/README.md",
     "images",
     "projects/project3.md",
     "projects/project2.md",
-    "projects/project1.md",
-    "experience/experience4.md",
-    "experience/experience3.md",
-    "experience/experience2.md",
-    "experience/experience1.md"
+    "projects/project1.md"
   ]
 }

@@ -12,6 +12,13 @@ bullets:
   - "Mentored a team of interns in programming software to perform memory test and repair tasks"
   - "Served in the onsite Young Professionals and Health & Wellness committees"
 ---
+### Overview
+- \item {Developed and maintained SystemVerilog/UVM testbenches for functional verification of 10+ critical IP cores including PCI, I2C, UART, and SPI interfaces on production SoCs.}
+- \item {Created a Perl framework for generating wafer-level and package-level test patterns for SerDes and MBIST IP validation on RAD5545 SoCs, ensuring production-quality hardware functionality.}
+- \item {Mentored interns in the development of memory test and repair for SoCs using C++ and JTAG Corelis boundary-scan hardware.}
+- \item{Presented automated MBIST test insertion methodology research to Virginia Microelectronics Consortium (VMEC), demonstrating innovation in test automation.}
+
+### Summary
 
 As a Digital Logic Design Engineer at BAE Systems Inc., I worked on critical defense technology projects involving ASIC verification and testing. My role encompassed both technical development and leadership responsibilities.
 

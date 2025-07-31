@@ -1,6 +1,6 @@
 ---
 greeting: "Hey There! 😎"
-name: "I'm Osaze Shears"
+name: "Osaze Shears"
 title: "FPGA-ASIC Design and Verification Engineer"
 introduction: ""
 connect_button_text: "Let's connect!"

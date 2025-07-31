@@ -10,15 +10,16 @@ bullets:
   - "Nearly 5 years of experience helping students succeed in technical subjects"
 ---
 
-I've been a private tutor on Wyzant for nearly 5 years, specializing in computer science, computer engineering, and programming languages. My tutoring focuses on helping students understand complex technical concepts and develop strong problem-solving skills.
+I worked as a private tutor on Wyzant for nearly 5 years, specializing in computer science, computer engineering, and programming languages.
 
-### Subjects I Specialize In
+### Subjects I Specialized In
 
 - **Hardware Description Languages:** Verilog, VHDL
 - **Programming Languages:** Java, Python, C, C++, Swift/Xcode
 - **Mathematics:** Calculus
-- **Computer Science & Engineering Concepts**
+- **Computer Science & Engineering Concepts:** Embedded Systems, RTL Verification, FPGA Implementation
 
+<!--
 ### Teaching Philosophy
 
 I believe in taking the time to understand each student's unique learning style and challenges. My approach emphasizes:
@@ -27,7 +28,7 @@ I believe in taking the time to understand each student's unique learning style 
 - Breaking down complex problems into manageable parts
 - Ensuring students understand the underlying concepts, not just the solution
 - Building confidence through guided practice
-
+-->
 ### Student Testimonials
 
 **"Knowledgeable and Engaging"**
@@ -55,6 +56,9 @@ I believe in taking the time to understand each student's unique learning style 
 > 
 > — Courtney
 
+
+<!--
 ### Availability
 
 Computer science and engineering tutoring is available at: [https://www.wyzant.com/Tutors/Osaze](https://www.wyzant.com/Tutors/Osaze)
+-->
