@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cv/cv.md",
+                "file": "experience/Virginia Tech.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cv"
+              "title": "Virginia Tech"
             }
           }
         ]
@@ -181,22 +181,22 @@
   },
   "active": "87d299d8ad1b3c3e",
   "lastOpenFiles": [
+    "blog/technical-skills-expertise.md",
+    "experience/Virginia Tech.md",
+    "experience/BAE Systems.md",
     "experience/Colvin Run.md",
     "experience/George Mason University.md",
+    "experience/USC Information Sciences Institute.md",
+    "experience/Wyzant Tutoring.md",
+    "cv/cv.md",
     "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
     "gamedev/Synthicate.md",
     "gamedev/Skeleton Hell.md",
     "gamedev/Lonnie's Fishtank.md",
-    "experience/Wyzant Tutoring.md",
-    "experience/Virginia Tech.md",
-    "experience/USC Information Sciences Institute.md",
-    "experience/BAE Systems.md",
     "blog/draft-example.md",
     "index/index.md",
     "projects/Independent Functional Testing for FPGAs.md",
     "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
-    "cv/cv.md",
-    "blog/technical-skills-expertise.md",
     "blog/my-engineering-journey.md",
     "blog/project-lens-robotic-eye-system.md",
     "blog/hybrid-fpga-asic-reservoir-system.md",

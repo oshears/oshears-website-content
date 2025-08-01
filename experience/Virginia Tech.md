@@ -1,25 +1,19 @@
 ---
-title: "Graduate Research Assistant (GRA)"
+title: "Graduate Research and Teching Assistant"
 company: "Virginia Tech"
 location: "Blacksburg, Virginia"
 startDate: "2020-08-01"
 endDate: "2022-05-01"
 image: "/vt_team.jpg"
 bullets:
-  - "Researching under the Multifunctional Integrated Circuits and Systems (MICS) Lab"
-  - "Studying neuromorphic computing implementations on digital integrated circuits"
-  - "Collaborating with other graduate students to develop next generation machine learning hardware leveraging neuromorphic computing"
-  - "Mentoring a team of 4 undergraduate students in researching digital neuromorphic computing, machine learning, and reservoir computing"
+  - "Implemented Zynq-7000 FPGA based interface in Vivado and Verilog for an analog neuromorphic image classifier ASIC. The design leveraged the embedded ARM processor, an external DAC, the internal ADC, and custom AXI IP."
+  - "Developed bare-metal C applications to run on Zynq-7000 ARM processor for reading and writing data to the analog ASIC interface."
+  - "Configured a PetaLinux image and device tree for AXI memory-mapped custom IP addressing from Linux running on the ARM CPU. Created Python scripts to streamline IP configuration and evaluation of the neuromorphic ASIC within the embedded OS."
+  - "Used TCL scripts to automate Vivado's FPGA block design and bitstream generation for reproducibility and continuous integration of the neuromorphic ASIC interface architecture. Maintained a GitHub repository for version control and collaboration."
+  - "Designed a recurrent neural network accelerator IP using C++ and Intel HLS Compiler for the BladeRF software defined radio. Performed verification using ModelSim co-simulation, and implemented a bitstream generated for the on-board Cyclone V FPGA."
+  - "Led and instructed a team of 4 undergraduate students in FPGA machine learning accelerator design. Provided weekly lectures, facilitated technical discussions, and advised undergraduate research projects for 3 semesters."
+  - "Conducted research analyzing firmware and hardware vulnerabilities (CVEs) in the NIST National Vulnerability Database for Colvin Run Networks' supply chain risk assessment tool - Copia."
 ---
-
-### Overview
-
-- \item {Implemented Zynq-7000 FPGA interface for analog neuromorphic image classifier ASIC using embedded processor, DAC, ADC, and custom AXI IP, enabling mixed-signal functionality.}
-- \item {Developed bare-metal applications to run on Zynq-7000 ARM processor to read and write data to analog ASIC bridge.}
-- \item {Configured PetaLinux image and device tree for AXI memory-mapped IP addressing from Linux userspace. Created Python scripts to further streamline IP configuration and evaluation.}
-- \item {Used TCL to automate Vivado's FPGA block design and bitstream generation for reproducibility and continuous integration.}
-- \item {Designed recurrent neural network IP using C++ and Intel HLS Compiler for BladeRF software defined radio. Performed verification using ModelSim co-simulation, and implemented bitstream generated for the on-board Cyclone V FPGA.}
-- \item {Led and instructed a team of 4 undergraduate students in FPGA machine learning accelerator design, providing technical guidance and project oversight.}
 
 ### Summary
 

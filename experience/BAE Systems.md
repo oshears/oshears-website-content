@@ -6,17 +6,13 @@ startDate: "2018-05-01"
 endDate: "2020-07-01"
 image: "/bae_systems_team.jpg"
 bullets:
-  - "Created various UVM test sequences for verifying several protocols on ASICs (PCI, JTAG, I2C)"
-  - "Constructed several scripts to automate memory built-in self-test (MBIST) operations and fuse repairs"
-  - "Performed design for test pattern generation and bring-up tasks on the RAD5545 single-board computer"
-  - "Mentored a team of interns in programming software to perform memory test and repair tasks"
-  - "Served in the onsite Young Professionals and Health & Wellness committees"
+  - "Developed and maintained SystemVerilog/UVM testbenches for functional verification of 10+ critical IP cores on production SoCs, including PCI, I2C, UART, and SPI interfaces."
+  - "Created a Perl framework for generating wafer-level and package-level manufacturing test patterns for SerDes and MBIST IP validation on RAD5545 SoCs, ensuring production-quality hardware functionality."
+  - "Collaborated with interns in the development of memory test and repair sequences for SoCs using C++ and JTAG Corelis boundary scan hardware. Used on-chip fuses to enable redundant memory columns and repair memory faults for several devices."
+  - "Presented automated MBIST test insertion methodology research to the Virginia Microelectronics Consortium (VMEC), demonstrating innovation in test automation."
+  - "Served in the onsite Young Professionals and Health & Wellness committees."
 ---
-### Overview
-- \item {Developed and maintained SystemVerilog/UVM testbenches for functional verification of 10+ critical IP cores including PCI, I2C, UART, and SPI interfaces on production SoCs.}
-- \item {Created a Perl framework for generating wafer-level and package-level test patterns for SerDes and MBIST IP validation on RAD5545 SoCs, ensuring production-quality hardware functionality.}
-- \item {Mentored interns in the development of memory test and repair for SoCs using C++ and JTAG Corelis boundary-scan hardware.}
-- \item{Presented automated MBIST test insertion methodology research to Virginia Microelectronics Consortium (VMEC), demonstrating innovation in test automation.}
+
 
 ### Summary
 

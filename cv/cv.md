@@ -23,6 +23,7 @@ skills:
   - "ModelSim"
   - "Questa"
   - "Xcelium"
+  - "Synopsys VCS"
   - "Python"
   - "C/C++"
   - "Java"
@@ -30,6 +31,43 @@ skills:
   - "UVM"
   - "Git"
   - "GitHub/GitLab"
+awards:
+  - title: New Horizons Graduate Scholar
+    year: August 2020
+    description: Awarded by Virginia Tech's College of Engineering 
+  - title: ECE Department Bradley Fellowship
+    year: January 2020
+    description: Awarded by Virginia Tech's Electrical and Computer Engineering Department
+  - title: Summa Cum Laude
+    year: May 2018
+    description: Awarded by GMU's Volgenau School of Engineering (VSE)
+  - title: ECE Chairman's Award
+    year: May 2018
+    description: Awarded by GMU's Electrical and Computer Engineering Department's
+  - title: ECE Outstanding Academic Achievement Award
+    year: May 2018
+    description: Awarded by GMU's Electrical and Computer Engineering Department's
+  - title: ECE Senior Design Project Award
+    year: May 2018
+    description: Awarded by GMU's Electrical and Computer Engineering Department's  for Project LENS
+  - title: Dean's Advisory Board Award
+    year: April 2018
+    description: Awarded by GMU's Volgenau School of Engineering (VSE) for Project LENS
+  - title: Honors College
+    year: June 2014 - May 2018
+    description: Awarded by GMU's Honors College
+  - title: OSCAR Fellow
+    year: August 2017
+    description: Awarded by GMU's Office of Student Scholarship, Creative Activities and Research (OSCAR)
+  - title: Undergraduate Research Scholar Program (URSP) Grant
+    year: January 2017, August 2017
+    description: Awarded by GMU's Office of Student Scholarship, Creative Activities and Research (OSCAR)
+  - title: Black Scholar of the Year
+    year: February 2015
+    description: Awarded by GMU's Office of Diversity, Inclusion and Multicultural Education (ODIME)
+  - title: Dean's List
+    year: June 2014 - May 2018
+    description: Awarded by GMU's Volgenau School of Engineering (VSE)
 ---
 
 

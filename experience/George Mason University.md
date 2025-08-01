@@ -2,8 +2,8 @@
 title: Computer Engineering Undergraduate Researcher
 company: George Mason University
 location: Fairfax, Virginia
-startDate: 2014-06-01
-endDate: 2018-05-01
+startDate: "2014-06-01"
+endDate: "2018-05-01"
 image: /gmu_team.jpg
 bullets:
   - "Learning Assistant (LA) for ECE 331: Digital Systems Design and ECE 332: Digital Electronics and Logic Design Lab"
