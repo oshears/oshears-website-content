@@ -6,13 +6,13 @@ startDate: "2014-06-01"
 endDate: "2018-05-01"
 image: /gmu_team.jpg
 bullets:
-  - "Learning Assistant (LA) for ECE 331: Digital Systems Design and ECE 332: Digital Electronics and Logic Design Lab"
-  - Peer Mentor for Engineering courses, focusing on Computer Science, Computer Engineering, Physics and Calculus
-  - Technology Coordinator & STEP Logistics Coordinator for Office of Diversity, Inclusion and Multicultural Education
-  - President of F1rst Gen Mason student organization
 ---
+- Learning Assistant (LA) for ECE 331: Digital Systems Design and ECE 332: Digital Electronics and Logic Design Lab
+- Peer Mentor for Engineering courses, focusing on Computer Science, Computer Engineering, Physics and Calculus
+- Technology Coordinator & STEP Logistics Coordinator for Office of Diversity, Inclusion and Multicultural Education
+- President of F1rst Gen Mason student organization
 
-During my undergraduate studies at George Mason University, I held multiple leadership and academic support roles while completing my Bachelor of Science in Computer Engineering.
+During my undergraduate studies at George Mason University, I held multiple leadership and academic support roles.
 
 ### Education
 
@@ -53,8 +53,9 @@ Office of Diversity, Inclusion and Multicultural Education
 **President** (May 2016 - May 2017)
 F1rst Gen Mason
 
-- Designed a new visual identity for the organization
+- Organized events to provide networking opportunities for first-generation college students. 
 - Developed a mobile app to help students calculate their grade point averages
+- Designed a new visual identity for the organization
 
 ### Awards & Recognition
 
@@ -74,8 +75,51 @@ F1rst Gen Mason
 **Project LENS** - A Robotic Eye System Using Artificial Muscles
 
 - [Project Video](https://www.youtube.com/watch?v=6TalQVtu-Ss)
-- [Project Poster](https://oshears.github.io/assets/docs/Project_LENS_Poster.pdf)
+- [Project Poster](https://oshears.github.io/docs/Project_LENS_Poster.pdf)
 - Awarded both ECE Senior Design Project Award and Dean's Advisory Board Award
+
+<!-- - title: BladeRF Delayed Feedback Reservoir
+link: https://github.com/oshears/bladerf_dfr_accelerator
+tagline: A reservoir computing accelerator embedded in the BladeRF software defined radio
+
+- title: Hybrid FPGA-ASIC Delayed Feedback Reservoir
+link: https://github.com/oshears/hybrid_dfr_system
+tagline: A hybrid reservoir computing system leveraging FPGA and ASIC capabilities
+
+- title: Multiprocessing with Spiking Neural Networks
+link: https://oshears.github.io/assets/docs/vt_ece_5510_project_report.pdf
+tagline: A Benchmarking Evaluation of Multithreaded SNNs in BindsNET
+
+- title: Image Classification with Spiking Neural Networks
+link: https://oshears.github.io/adv-ml-2020-snn-project/
+tagline: An Accuracy Evaluation of various SNNs for performing MNIST Digit Classification in BindsNET
+
+- title: 'Project LENS'
+link: https://www.youtube.com/watch?v=6TalQVtu-Ss
+tagline: A Robotic Eye System Using Artificial Muscles
+poster: https://oshears.github.io/assets/docs/Project_LENS_Poster.pdf
+
+- title: Hardware Security Survey
+link: https://oshears.github.io/assets/docs/OsazeShears_HardwareSecurity.pdf
+tagline: An overview of the need for hardware security and its implementation. 
+poster: https://oshears.github.io/assets/docs/OsazeShears_HardwareSecurity.pdf
+
+- title: Memory Built-In Self-Test Integration
+link: https://oshears.github.io/assets/docs/OsazeShears_VMECPoster.pdf
+tagline: An project to improve the integration of MBIST logic into ASICs at BAE Systems.
+poster: https://oshears.github.io/assets/docs/OsazeShears_VMECPoster.pdf
+
+- title: Real Estate Price Prediction using Machine Learning
+link: https://oshears.github.io/assets/docs/OsazeShears_RealestatePrediction.pdf
+tagline: An introduction to predicting real estate prices in Virginia using various Machine Learning models.
+poster: https://oshears.github.io/assets/docs/OsazeShears_RealestatePrediction.pdf
+
+- title: Single-Cycle MIPS Processor on FPGA
+link: 
+tagline: A Simple MIPS Processor Developed on a Basys 2 Development Board
+
+- title: GMU GPA
+tagline: A Mobile Application to Help GMU Students Estimate Their GPAs -->
 
 ### Related Links
 
