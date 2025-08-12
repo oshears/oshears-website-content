@@ -1,4 +1,7 @@
 ---
-startDate: 2024-04-01
-endDate: 2024-08-01
+title: "Lonnie's Fishtank"
+description: "A game project. (Add a real description here.)"
+pubDate: 2023-01-01
 ---
+
+// Add your content here.
