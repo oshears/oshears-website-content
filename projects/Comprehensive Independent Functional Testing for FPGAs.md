@@ -1,10 +1,31 @@
 ---
-title: "Independent Functional Testing for FPGAs"
-pubDate: "2022-11-20"
-description: "Development of comprehensive testing methodologies for FPGA designs to ensure functional correctness and reliability"
-heroImage: "/post_img.webp"
-badge: "RESEARCH"
+title: Independent Functional Testing for FPGAs
+pubDate: 2022-11-20
+description: Development of comprehensive testing methodologies for FPGA designs to ensure functional correctness and reliability
+heroImage: /post_img.webp
+badge: RESEARCH
+draft: false
+tags:
+  - FPGA
 ---
+
+The comprehensive independent functional testing (CIFT) project for FPGAs has been my primary project while working at USC ISI. This project involves testing all of the configurable/programmable logic within FPGAs across different vendors. My focus was on Xilinx FPGAs from Versal, UltraScale+, Zynq, and Series 7 families.
+
+In particular for this project, my major contributions included:
+- developing path delay tests for all series 7 devices to test delays for all BELs within configurable logic blocks (CLBs)
+- Developed slice, BRAM, interconnect and security tests (secure boot, AES decryption IP and RSA authentication) for Versal devices
+- Developed security tests for Zynq (secure boot) and UltraScale+ decides (AES deception IP)
+
+I have had several direct interactions with the customer for this project (JFAC, NSWC) and attended several GOMAC conferences to support in discussions and publications surrounding this work. 
+
+This work allowed me to work with a variety of development boards and the latest versions of Vivado and Vitis tools. I have also worked with legacy tools (ISE) to debug and provide support for deprecated hardware that is still in use by certain mission critical systems.
+
+This project greatly developed my Python scripting skills, in addition to experience using VHDL to configure various FPGA designs and instantiating different low level macros from the library. TCL was also used extensively to automate certain parts of the design tool flows.
+
+Using Vitis for the parametric tests provided a uniquely different experience. For the Series 7 devices, we instantiated a small microblaze CPU and loaded a bare metal C application for driving the tests and collecting the path delay results to transmit via UART and JTAG.
+
+As a large software based project, this included extensive documentation via wikis, issue tracking in GitLab, and continuous integration and continuous development (CI/CD) flows. We also maintained several pieces of documentation in LaTeX (User Guide, Technical Data Package).
+
 
 <!--
 This project focuses on developing independent functional testing methodologies for FPGA designs, addressing the critical need for comprehensive verification in reconfigurable computing applications. The work emphasizes creating robust testing frameworks that can validate FPGA functionality across different operating conditions and use cases.

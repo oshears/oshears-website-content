@@ -1,10 +1,29 @@
 ---
-title: "Top Level SoC Integration for Fully Homomorphic Encryption ASIC"
-pubDate: "2023-06-10"
-description: "System-on-Chip integration project for implementing Fully Homomorphic Encryption capabilities in custom ASIC design"
-heroImage: "/post_img.webp"
-badge: "RESEARCH"
+title: Top Level SoC Integration for Fully Homomorphic Encryption ASIC
+pubDate: 2025-07-01
+description: System-on-Chip integration project for implementing Fully Homomorphic Encryption capabilities in custom ASIC design
+heroImage: /post_img.webp
+badge: RESEARCH
+tags:
+  - ASIC
+  - SoC
+draft: false
 ---
+
+
+This summer I had the opportunity to work on exciting new ASIC design project under the DARPA DPRIVE program. The ISI project, known as Trebuchet, has been ongoing since 2020 and has had great success and achieved multiple phases of funding.
+
+My role in this project was to work with the team in designing and integrating the top level for the Trebuchet SoC so that it could be fabricated using global foundries 12nm LP node process. My responsibilities for this project included:
+
+- Collaborate with Ben in the design of the top level SoC features, including reset synchronization, clock domain crossing (CDC) implementation, and insertion of IO pads.
+- Integrating JTAG interfaces between the IP and hooking them up to the JTAG TAP IO pins.
+- Integrating the PLL and configuring it to operate output a 1GHz clock with our 100MHz external reference clock. 
+- Collaborate with Sakib in the bring up of the Synopsys SerDes IP (UPCS + PHY) so that it could send and receive data for the homomorphic encryption cores
+- Adding top level control-status registers (CSRs) that could be configured via the AXI4Lite interconnect. The interconnect would be hooked up to a simple parallel bus on the chip's IO pads.
+
+I also worked with an intern who studied the functions of the Synopsys JTAG TAP controller that we could use to provide access to our own JTAG accessible registers. 
+
+The chip is scheduled to be taped out in November! 
 
 <!--
 This project focuses on the top-level system-on-chip (SoC) integration for a Fully Homomorphic Encryption (FHE) ASIC, addressing the critical need for hardware-accelerated privacy-preserving computation. The work demonstrates how specialized ASIC design can enable practical deployment of FHE algorithms that were previously computationally prohibitive.

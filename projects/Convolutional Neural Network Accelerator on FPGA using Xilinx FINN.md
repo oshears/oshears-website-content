@@ -1,9 +1,10 @@
 ---
-title: "Convolutional Neural Network Accelerator on FPGA using Xilinx FINN"
-pubDate: "2023-03-15"
-description: "FPGA-based CNN accelerator implementation using Xilinx FINN framework for high-performance neural network inference"
-heroImage: "/post_img.webp"
-badge: "RESEARCH"
+title: Convolutional Neural Network Accelerator on FPGA using Xilinx FINN
+pubDate: 2023-03-15
+description: FPGA-based CNN accelerator implementation using Xilinx FINN framework for high-performance neural network inference
+heroImage: /post_img.webp
+badge: RESEARCH
+draft: true
 ---
 
 <!--
