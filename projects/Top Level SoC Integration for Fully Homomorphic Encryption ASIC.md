@@ -3,13 +3,15 @@ title: Top Level SoC Integration for Fully Homomorphic Encryption ASIC
 pubDate: 2025-07-01
 description: System-on-Chip integration project for implementing Fully Homomorphic Encryption capabilities in custom ASIC design
 heroImage: /post_img.webp
-badge: RESEARCH
+badge: USC ISI
 tags:
   - ASIC
   - SoC
+  - USC-ISI
 draft: false
 ---
 
+# Overview
 
 This summer I had the opportunity to work on exciting new ASIC design project under the DARPA DPRIVE program. The ISI project, known as Trebuchet, has been ongoing since 2020 and has had great success and achieved multiple phases of funding.
 
@@ -24,6 +26,11 @@ My role in this project was to work with the team in designing and integrating t
 I also worked with an intern who studied the functions of the Synopsys JTAG TAP controller that we could use to provide access to our own JTAG accessible registers. 
 
 The chip is scheduled to be taped out in November! 
+
+# Relevant Links
+- [Data Protection in Virtual Environments (DPRIVE) - SAM.gov](https://sam.gov/opp/16c71dadbe814127b475ce309929374b/view)
+- [DARPA Selects Researchers to Accelerate Use of Fully Homomorphic Encryption](https://www.darpa.mil/news/2021/homomorphic-encryption)
+- [DPRIVE: Data Protection in Virtual Environments | DARPA](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments)
 
 <!--
 This project focuses on the top-level system-on-chip (SoC) integration for a Fully Homomorphic Encryption (FHE) ASIC, addressing the critical need for hardware-accelerated privacy-preserving computation. The work demonstrates how specialized ASIC design can enable practical deployment of FHE algorithms that were previously computationally prohibitive.

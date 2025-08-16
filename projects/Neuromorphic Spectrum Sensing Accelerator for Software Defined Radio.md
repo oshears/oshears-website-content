@@ -3,9 +3,10 @@ title: Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio
 pubDate: 2021-09-15
 description: Neuromorphic computing accelerator for real-time spectrum sensing in software defined radio applications
 heroImage: /post_img.webp
-badge: PUBLISHED
+badge: Virginia Tech
 url: https://github.com/oshears/hybrid_dfr_system
 draft: true
+tags:
 ---
 
 <!--

@@ -2,9 +2,10 @@
 title: Senior Research Engineer
 company: USC Information Sciences Institute
 location: Arlington, Virginia
-startDate: "2022-05-01"
-bullets:
+startDate: 2022-05-01
+bullets: 
 image: /isi_team.jpg
+badge: USC ISI
 ---
 
 - Architected and integrated a top-level SoC design using **SystemVerilog** with **JTAG, PLL, SerDes**, and custom IP for a homomorphic encryption ASIC. Interfaced memory-mapped control-status registers with **AXI4Lite** interconnect for external FPGA access.

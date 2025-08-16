@@ -3,10 +3,11 @@ title: Independent Functional Testing for FPGAs
 pubDate: 2022-11-20
 description: Development of comprehensive testing methodologies for FPGA designs to ensure functional correctness and reliability
 heroImage: /post_img.webp
-badge: RESEARCH
+badge: USC ISI
 draft: false
 tags:
   - FPGA
+  - USC-ISI
 ---
 
 The comprehensive independent functional testing (CIFT) project for FPGAs has been my primary project while working at USC ISI. This project involves testing all of the configurable/programmable logic within FPGAs across different vendors. My focus was on Xilinx FPGAs from Versal, UltraScale+, Zynq, and Series 7 families.
@@ -16,7 +17,7 @@ In particular for this project, my major contributions included:
 - Developed slice, BRAM, interconnect and security tests (secure boot, AES decryption IP and RSA authentication) for Versal devices
 - Developed security tests for Zynq (secure boot) and UltraScale+ decides (AES deception IP)
 
-I have had several direct interactions with the customer for this project (JFAC, NSWC) and attended several GOMAC conferences to support in discussions and publications surrounding this work. 
+I have had several direct interactions with the customer for this project (JFAC, NSWC) and attended several [GOMAC (Government Microcircuit Applications & Critical Technology Conference) conferences to support in discussions and publications surrounding this work](https://www.gomactech.net/). 
 
 This work allowed me to work with a variety of development boards and the latest versions of Vivado and Vitis tools. I have also worked with legacy tools (ISE) to debug and provide support for deprecated hardware that is still in use by certain mission critical systems.
 
@@ -26,6 +27,12 @@ Using Vitis for the parametric tests provided a uniquely different experience. F
 
 As a large software based project, this included extensive documentation via wikis, issue tracking in GitLab, and continuous integration and continuous development (CI/CD) flows. We also maintained several pieces of documentation in LaTeX (User Guide, Technical Data Package).
 
+# Relevant Links
+- [CIFT: Comprehensive Independent Functional Testing of Commercial FPGA Devices - Reconfigurable Computing Group](https://www.isi.edu/research-groups-rcg/projects/current-projects/cift/)
+- [apps.dtic.mil/sti/tr/pdf/AD1075329.pdf](https://apps.dtic.mil/sti/tr/pdf/AD1075329.pdf)
+- [Enhanced Independent Functional Testing of Xilinx FPGAs](https://apps.dtic.mil/sti/citations/AD1075329)
+- [GOMAC_2024_COV_TXT.pdf](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf)
+- [GOMACTech_2023_Program.pdf](https://www.gomactech.net/assets/pdf/GOMACTech_2023_Program.pdf)
 
 <!--
 This project focuses on developing independent functional testing methodologies for FPGA designs, addressing the critical need for comprehensive verification in reconfigurable computing applications. The work emphasizes creating robust testing frameworks that can validate FPGA functionality across different operating conditions and use cases.
