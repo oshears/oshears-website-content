@@ -1,13 +1,16 @@
 ---
 title: Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio
-pubDate: 2021-09-15
+pubDate: 2021-09-01
 description: Neuromorphic computing accelerator for real-time spectrum sensing in software defined radio applications
-heroImage: /post_img.webp
+heroImage: /virginia_tech_logo.svg
 badge: Virginia Tech
 url: https://github.com/oshears/hybrid_dfr_system
-draft: true
+draft: false
 tags:
 ---
+
+# Related Links
+- [oshears/bladerf_dfr_accelerator: A project to implement a delayed feedback reservoir on the bladeRF 2.0 micro software defined radio (SDR) FPGA.](https://github.com/oshears/bladerf_dfr_accelerator)
 
 <!--
 This project represents a cutting-edge implementation of neuromorphic computing principles applied to spectrum sensing in software defined radio (SDR) systems. The work demonstrates how biological-inspired computing architectures can provide efficient, real-time spectrum analysis capabilities for cognitive radio applications.

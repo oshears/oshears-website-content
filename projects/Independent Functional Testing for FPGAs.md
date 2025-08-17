@@ -2,12 +2,18 @@
 title: Independent Functional Testing for FPGAs
 pubDate: 2022-11-20
 description: Development of comprehensive testing methodologies for FPGA designs to ensure functional correctness and reliability
-heroImage: /post_img.webp
+heroImage: /isi.webp
 badge: USC ISI
 draft: false
 tags:
   - FPGA
   - USC-ISI
+  - AMD
+  - Xilinx
+  - Vivado
+  - Versal
+  - UltraScale+
+  - Zynq
 ---
 
 The comprehensive independent functional testing (CIFT) project for FPGAs has been my primary project while working at USC ISI. This project involves testing all of the configurable/programmable logic within FPGAs across different vendors. My focus was on Xilinx FPGAs from Versal, UltraScale+, Zynq, and Series 7 families.

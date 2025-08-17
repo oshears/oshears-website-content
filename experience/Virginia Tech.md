@@ -6,6 +6,7 @@ startDate: "2020-08-01"
 endDate: "2022-05-01"
 image: "/vt_team.jpg"
 bullets:
+badge: Virginia Tech
 ---
 
 - Implemented Zynq-7000 FPGA based interface in Vivado and Verilog for an analog neuromorphic image classifier ASIC. The design leveraged the embedded ARM processor, an external DAC, the internal ADC, and custom **AXI** IP.

@@ -6,6 +6,7 @@ startDate: "2018-05-01"
 endDate: "2020-07-01"
 image: "/bae_systems_team.jpg"
 bullets:
+badge: BAE Systems
 ---
 
 - Developed and maintained **SystemVerilog/UVM** testbenches for functional verification of 10+ critical IP cores on production SoCs, including **PCI, I2C, UART, and SPI** interfaces.

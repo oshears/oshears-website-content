@@ -2,11 +2,28 @@
 title: Convolutional Neural Network Accelerator on FPGA using Xilinx FINN
 pubDate: 2023-03-15
 description: FPGA-based CNN accelerator implementation using Xilinx FINN framework for high-performance neural network inference
-heroImage: /post_img.webp
-badge: Virginia Tech
-draft: true
+heroImage: /isi.webp
+badge: USC ISI
+draft: false
 tags:
 ---
+
+In this project I used the [Xilinx FINN](https://github.com/Xilinx/finn) compiler to generate CNNs for evaluation in a heterogenous ASIC-FPGA-GPU object tracking system. The FPGA and ASIC implemented were designed to implement the ResNet-50 CNN, while the back-end GPU would perform object tracking using QDTrack or GTR. The target data set was BDD100K. The ASIC would be in charge of implementing the first layer of 
+
+This PIXELS project (Processing In-Pixel-in-Memory for Efficient Low-energy Heterogeneous Systems) was funded by DARPA IP2. 
+
+
+# Related Links
+- [PIXELS: Processing In-Pixel-in-Memory for Efficient Low-energy Heterogeneous Systems - Reconfigurable Computing Group](https://www.isi.edu/research-groups-rcg/projects/current-projects/pixels/)
+- [Advancing Computer Vision One Pixel at a Time - USC Viterbi | School of Engineering](https://viterbischool.usc.edu/news/2023/05/advancing-computer-vision-one-pixel-at-a-time/)
+- [In-Pixel Intelligent Processing (IP2) - SAM.gov](https://sam.gov/opp/64ae26eed1f446588bf2bdc5e1e2c936/view)
+- [DARPA releases IP2 AIE - Intelligence Community News](https://intelligencecommunitynews.com/darpa-releases-ip2-aie/)
+- [In-Pixel Computing for the Extreme-Edge](https://eri-summit.darpa.mil/docs/ERISummit2023/Slides/Day2/Jacob_Ajey_USC%20ISI.pdf)
+- [Xilinx/finn: Dataflow compiler for QNN inference on FPGAs](https://github.com/Xilinx/finn)
+- [FINN | finn](https://xilinx.github.io/finn/)
+- [BDD100K: A Large-scale Diverse Driving Video Database – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2018/05/30/bdd/)
+
+<!-- - https://bdd-data.berkeley.edu/ --> 
 
 <!--
 This project focuses on implementing a high-performance Convolutional Neural Network (CNN) accelerator on FPGA using the Xilinx FINN framework. The work demonstrates how FPGAs can be leveraged to achieve efficient neural network inference for edge computing applications.

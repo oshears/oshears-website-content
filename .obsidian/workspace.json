@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/NoC emulation for a spectrum sensing ASIC.md",
+                "file": "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "NoC emulation for a spectrum sensing ASIC"
+              "title": "Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio"
             }
           },
           {
@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experience/USC Information Sciences Institute.md",
+                "file": "projects/Independent Functional Testing for FPGAs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "USC Information Sciences Institute"
+              "title": "Independent Functional Testing for FPGAs"
+            }
+          },
+          {
+            "id": "0a1aae8509160a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Convolutional Neural Network Accelerator on FPGA using Xilinx FINN"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pubDate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,13 +223,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09df2be4976fc985",
+  "active": "e1a003f9264e7a92",
   "lastOpenFiles": [
-    "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
-    "projects/NoC emulation for a spectrum sensing ASIC.md",
-    "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
     "projects/Independent Functional Testing for FPGAs.md",
+    "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
+    "projects/FPGA system design for interfacing with a image classification Neuromorphic IC.md",
     "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
+    "projects/Functional verification for RAD510 SoC IP cores.md",
+    "projects/Bitstream error correction using neural networks and transformer ML models.md",
+    "projects/NoC emulation for a spectrum sensing ASIC.md",
+    "projects/Memory Test and Repair for RAD5545 SBCs.md",
+    "blog/project-lens-robotic-eye-system.md",
+    "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
+    "images/bae_systems.webp",
+    "images/isi.webp",
+    "experience/Virginia Tech.md",
+    "experience/BAE Systems.md",
+    "experience/USC Information Sciences Institute.md",
     "index/index.md",
     "cv/cv.md",
     "service/service-projects.md",
@@ -228,15 +253,8 @@
     "gamedev/Skeleton Hell.md",
     "gamedev/Lonnie's Fishtank.md",
     "experience/Wyzant Tutoring.md",
-    "experience/Virginia Tech.md",
-    "experience/USC Information Sciences Institute.md",
-    "experience/BAE Systems.md",
     "blog/draft-example.md",
     "blog/technical-skills-expertise.md",
-    "blog/my-engineering-journey.md",
-    "blog/project-lens-robotic-eye-system.md",
-    "blog/hybrid-fpga-asic-reservoir-system.md",
-    "blog/bladerf-delayed-feedback-reservoir.md",
     "images/test-image.jpg",
     "images"
   ]

@@ -2,7 +2,7 @@
 title: Top Level SoC Integration for Fully Homomorphic Encryption ASIC
 pubDate: 2025-07-01
 description: System-on-Chip integration project for implementing Fully Homomorphic Encryption capabilities in custom ASIC design
-heroImage: /post_img.webp
+heroImage: /isi.webp
 badge: USC ISI
 tags:
   - ASIC
