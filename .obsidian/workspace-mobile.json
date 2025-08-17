@@ -266,11 +266,19 @@
   },
   "active": "ec7d62d8e86db713",
   "lastOpenFiles": [
-    "NoC emulation for a spectrum sensing ASIC.md",
     "projects/Convolutional Neural Network Accelerator on FPGA using Xilinx FINN.md",
-    "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
-    "projects/Comprehensive Independent Functional Testing for FPGAs.md",
+    "projects/Functional verification for RAD510 SoC IP cores.md",
+    "projects/FPGA system design for interfacing with a image classification Neuromorphic IC.md",
+    "projects/Independent Functional Testing for FPGAs.md",
+    "projects/Memory Test and Repair for RAD5545 SBCs.md",
+    "projects/NoC emulation for a spectrum sensing ASIC.md",
+    "projects/Bitstream error correction using neural networks and transformer ML models.md",
+    "images/isi.webp",
+    "images/bae_systems.webp",
     "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
+    "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",
+    "NoC emulation for a spectrum sensing ASIC.md",
+    "projects/Comprehensive Independent Functional Testing for FPGAs.md",
     "experience/BAE Systems.md",
     "index/index.md",
     "Colvin Run.md",
@@ -287,9 +295,6 @@
     "blog/hybrid-fpga-asic-reservoir-system.md",
     "blog/technical-skills-expertise.md",
     "blog/my-engineering-journey.md",
-    "experience/Wyzant Tutoring.md",
-    "draft",
-    "experience/Virginia Tech.md",
-    "experience/USC Information Sciences Institute.md"
+    "draft"
   ]
 }

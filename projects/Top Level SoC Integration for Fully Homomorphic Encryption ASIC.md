@@ -10,7 +10,42 @@ tags:
   - USC-ISI
 draft: false
 ---
-
+# Outline
+- pre-interview
+	- Have questions ready
+	- Be excited about the interview
+	- Research and know as much as you can about the company
+	- 
+- overview 
+	- Project summary + goals
+	- Funding source and objective 
+- My responsibilities 
+	- Integrate top level
+		- PLL, reset synchronization, clock domain crossing, pad frame
+	- Configure PLL to 1GHz with 100MHz ref clock
+	- Debug SerDes phy initialization 
+	- Brainstorm approaches to uses UPCS with PCIe settings
+	- Integrate JTAG
+	- Add CSRs
+- Challenges
+	- Missing PCIe controller
+	- Tight deadline (6 weeks to integrate)
+	- verifying top level design and getting simulations working with disparate IP
+- Leveraged tools
+	- Synopsys VCS
+	- RTL Architect
+	- Synopsys TAP (Deisgnware)
+	- GF 12LP PLL
+	- Synopsys UPCS (PCIe, SATA) + SerDes PHY
+	- CocoTB
+	- Cadence Xcelium (NCSim)
+- Results (STAR)
+	- Baseline SoC ready even though tapeout on hiatus 
+	- Added top level stuff
+- lessons learned
+	- always ensure full IP is acquired 
+	- 
+- Relevant links
 # Overview
 
 This summer I had the opportunity to work on exciting new ASIC design project under the DARPA DPRIVE program. The ISI project, known as Trebuchet, has been ongoing since 2020 and has had great success and achieved multiple phases of funding.
@@ -31,6 +66,8 @@ The chip is scheduled to be taped out in November!
 - [Data Protection in Virtual Environments (DPRIVE) - SAM.gov](https://sam.gov/opp/16c71dadbe814127b475ce309929374b/view)
 - [DARPA Selects Researchers to Accelerate Use of Fully Homomorphic Encryption](https://www.darpa.mil/news/2021/homomorphic-encryption)
 - [DPRIVE: Data Protection in Virtual Environments | DARPA](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments)
+- https://github.com/cocotb/cocotb
+- [https://www.cocotb.org](https://www.cocotb.org/)
 
 <!--
 This project focuses on the top-level system-on-chip (SoC) integration for a Fully Homomorphic Encryption (FHE) ASIC, addressing the critical need for hardware-accelerated privacy-preserving computation. The work demonstrates how specialized ASIC design can enable practical deployment of FHE algorithms that were previously computationally prohibitive.
