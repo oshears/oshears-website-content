@@ -9,10 +9,10 @@ bullets:
 badge: BAE Systems
 ---
 
-- Developed and maintained **SystemVerilog/UVM** testbenches for functional verification of 10+ critical IP cores on production SoCs, including **PCI, I2C, UART, and SPI** interfaces.
-- Created a **Perl** framework for generating wafer-level and package-level manufacturing test patterns for SerDes and MBIST IP validation on RAD5545 SoCs, ensuring production-quality hardware functionality.
-- Collaborated with interns in the development of memory test and repair sequences for SoCs using **C++** and JTAG Corelis boundary scan hardware. Used on-chip fuses to enable redundant memory columns and repair memory faults for several devices.
-- Presented automated MBIST test insertion methodology research to the Virginia Microelectronics Consortium (VMEC), demonstrating innovation in test automation.
+- Developed and maintained **SystemVerilog/UVM testbenches for functional verification** of 10+ critical IP cores on production SoCs, including **PCI, I2C, UART, and SPI** interfaces.
+- Created a **Perl** framework for **generating wafer-level and package-level manufacturing test patterns** for SerDes and **MBIST IP validation on RAD5545 SoCs**, ensuring production-quality hardware functionality.
+- Collaborated with interns in the **development of memory test and repair sequences for SoCs** using **C++** and JTAG Corelis boundary scan hardware. Used on-chip fuses to enable redundant memory columns and repair memory faults for several devices.
+- Presented **automated MBIST test insertion methodology research** to the Virginia Microelectronics Consortium (VMEC), demonstrating innovation in test automation.
 - Served in the onsite Young Professionals and Health & Wellness committees.
 
 ### Summary

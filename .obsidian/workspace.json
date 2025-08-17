@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Independent Functional Testing for FPGAs.md",
+                "file": "projects/Top Level SoC Integration for Fully Homomorphic Encryption ASIC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Independent Functional Testing for FPGAs"
+              "title": "Top Level SoC Integration for Fully Homomorphic Encryption ASIC"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1fc636861d7b9e13",
@@ -223,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a003f9264e7a92",
+  "active": "09df2be4976fc985",
   "lastOpenFiles": [
     "projects/Independent Functional Testing for FPGAs.md",
     "projects/Neuromorphic Spectrum Sensing Accelerator for Software Defined Radio.md",

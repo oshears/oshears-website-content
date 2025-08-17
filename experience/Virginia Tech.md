@@ -9,13 +9,13 @@ bullets:
 badge: Virginia Tech
 ---
 
-- Implemented Zynq-7000 FPGA based interface in Vivado and Verilog for an analog neuromorphic image classifier ASIC. The design leveraged the embedded ARM processor, an external DAC, the internal ADC, and custom **AXI** IP.
-- Developed bare-metal **C** applications to run on Zynq-7000 ARM processor for reading and writing data to the analog ASIC interface.
-- Configured a PetaLinux image and device tree for **AXI** memory-mapped custom IP addressing from Linux running on the ARM CPU. Created Python scripts to streamline IP configuration and evaluation of the neuromorphic ASIC within the embedded OS.
-- Used TCL scripts to automate Vivado's FPGA block design and bitstream generation for reproducibility and continuous integration of the neuromorphic ASIC interface architecture. Maintained a GitHub repository for version control and collaboration.
-- Designed a recurrent neural network accelerator IP using **C++** and Intel HLS Compiler for the BladeRF software defined radio. Performed verification using ModelSim co-simulation, and implemented a bitstream generated for the on-board Cyclone V FPGA.
-- Led and instructed a team of 4 undergraduate students in FPGA machine learning accelerator design. Provided weekly lectures, facilitated technical discussions, and advised undergraduate research projects for 3 semesters.
-- Conducted research analyzing firmware and hardware vulnerabilities (CVEs) in the NIST National Vulnerability Database for Colvin Run Networks' supply chain risk assessment tool - Copia.
+- Implemented Zynq-7000 FPGA based interface in Vivado and **Verilog** for an analog neuromorphic image classifier ASIC. The design leveraged the embedded ARM processor, an external DAC, the internal ADC, and custom **AXI** IP.
+- Developed **bare-metal C applications** to run on Zynq-7000 ARM processor for reading and writing data to the analog ASIC interface.
+- Configured a PetaLinux image and device tree for **AXI** memory-mapped custom IP addressing from Linux running on the ARM CPU. **Created Python scripts to streamline IP configuration** and evaluation of the **neuromorphic ASIC** within the embedded OS.
+- Used **TCL** scripts to **automate Vivado's FPGA block design and bitstream generation** for reproducibility and continuous integration of the **neuromorphic ASIC interface architecture**. Maintained a GitHub repository for version control and collaboration.
+- Designed a **recurrent neural network accelerator IP** using **C++** and **Intel HLS Compiler** for the BladeRF **software defined radio**. Performed verification using ModelSim co-simulation, and implemented a bitstream generated for the on-board Cyclone V FPGA.
+- Led and **instructed a team of 4 undergraduate students** in FPGA machine learning accelerator design. Provided weekly lectures, facilitated technical discussions, and advised undergraduate research projects for 3 semesters.
+- Conducted research **analyzing firmware and hardware vulnerabilities (CVEs)** in the NIST National Vulnerability Database for Colvin Run Networks' supply chain risk assessment tool - Copia.
 
 ### Summary
 
