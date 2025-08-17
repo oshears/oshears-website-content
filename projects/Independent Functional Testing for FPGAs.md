@@ -22,6 +22,7 @@ In particular for this project, my major contributions included:
 - developing path delay tests for all series 7 devices to test delays for all BELs within configurable logic blocks (CLBs)
 - Developed slice, BRAM, interconnect and security tests (secure boot, AES decryption IP and RSA authentication) for Versal devices
 - Developed security tests for Zynq (secure boot) and UltraScale+ decides (AES deception IP)
+- Worked with and researched various development boards (VMK180, VCK190, ZCU102, ZCU111, UltraZed EG, Kintex Skoll 7, KCU116)
 
 I have had several direct interactions with the customer for this project (JFAC, NSWC) and attended several [GOMAC (Government Microcircuit Applications & Critical Technology Conference) conferences to support in discussions and publications surrounding this work](https://www.gomactech.net/). 
 
