@@ -1,5 +1,5 @@
 ---
-title: Senior Research Engineer
+title: Senior FPGA Engineer
 company: USC Information Sciences Institute
 location: Arlington, Virginia
 startDate: 2022-05-01
