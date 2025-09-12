@@ -1,5 +1,5 @@
 ---
-title: "Graduate Research and Teching Assistant"
+title: "Graduate Research and Teaching Assistant"
 company: "Virginia Tech"
 location: "Blacksburg, Virginia"
 startDate: "2020-08-01"
