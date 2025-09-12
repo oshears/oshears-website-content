@@ -1,5 +1,5 @@
 ---
-title: "Digital Logic Design Engineer"
+title: "ASIC Verification Engineer"
 company: "BAE Systems"
 location: "Manassas, Virginia"
 startDate: "2018-05-01"
