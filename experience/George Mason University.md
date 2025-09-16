@@ -128,7 +128,36 @@ tagline: A Mobile Application to Help GMU Students Estimate Their GPAs -->
 
 # Other Roles
 
-<!-- President
+<!-- 
+
+Private Tutor
+Private Tutor
+Wyzant · Self-employedWyzant · Self-employed
+May 2017 - May 2018 · 1 yr 1 moMay 2017 to May 2018 · 1 yr 1 mo
+Northern VirginiaNorthern Virginia
+Private tutor on Wyzant.com specializing in computer science, computer engineering and programming languages. Subjects include Verilog, VHDL, Java, Python, C, C++, Swift, and Calculus.
+Private tutor on Wyzant.com specializing in computer science, computer engineering and programming languages. Subjects include Verilog, VHDL, Java, Python, C, C++, Swift, and Calculus.
+Skills: Field-Programmable Gate Arrays (FPGA) · Embedded Systems
+
+George Mason University
+George Mason University
+2 yrs 5 mos2 yrs 5 mos
+Learning Assistant
+Learning Assistant
+Aug 2017 - Dec 2017 · 5 mosAug 2017 to Dec 2017 · 5 mos
+Fairfax, VirginiaFairfax, Virginia
+• Learning Assistant for ECE 331: Digital Systems Design
+• Learning Assistant for ECE 332: Digital Electronics and Logic Design Lab 
+• Learning Assistant for ECE 331: Digital Systems Design • Learning Assistant for ECE 332: Digital Electronics and Logic Design Lab 
+Peer Mentor (Tutor)
+Peer Mentor (Tutor)
+Aug 2015 - Dec 2017 · 2 yrs 5 mosAug 2015 to Dec 2017 · 2 yrs 5 mos
+George Mason UniversityGeorge Mason University
+• Provide mentoring and tutoring services for George Mason University Engineering courses
+• Equip students with effective study habits and techniques to succeed outside of tutoring
+• Concentrate in supporting students with Computer Science, Computer Engineering, Physics and Calculus
+
+President
 President
 President
 F1rst Gen MasonF1rst Gen Mason
@@ -186,4 +215,5 @@ The Coordinator for Logistics was expected to:
 • Assist with preparation for STEP workshops, leadership series and receptions as needed
 • Inform supervisors and ODIME staff on issues relating to personal and/or student performance
 • Support the Assistant Coordinator for Logistics in all logistical components of the program including, monitoring and tracking spending, creating an academic calendar, maintaining academic spreadsheet, monitoring office/school supplies, coordinating special study halls as needed, organizing program photos and videos, and working on parent newsletter(s)
-• Support all safety and conduct regulations for STEP and George Mason University -->
+• Support all safety and conduct regulations for STEP and George Mason University 
+-->
