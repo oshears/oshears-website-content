@@ -125,3 +125,65 @@ tagline: A Mobile Application to Help GMU Students Estimate Their GPAs -->
 
 - [GMU Research Celebration News](https://content.sitemasonry.gmu.edu/news/2018-04/students-win-cash-prizes-their-work-undergraduate-research-celebration)
 - [URSP Student Research Feature](https://studentsasscholarsgmu.blogspot.com/2017/04/ursp-student-osaze-shears-researches.html)
+
+# Other Roles
+
+<!-- President
+President
+President
+F1rst Gen MasonF1rst Gen Mason
+May 2016 - May 2017 · 1 yr 1 moMay 2016 to May 2017 · 1 yr 1 mo
+Fairfax, VirginiaFairfax, Virginia
+President of the student organization F1rst Gen Mason at George Mason University. This organization is dedicated to the success of first generation college students through networking events, online resources and recognition of scholarship.
+
+
+Office of Diversity, Inclusion and Multicultural Education (ODIME)
+Office of Diversity, Inclusion and Multicultural Education (ODIME)
+Office of Diversity, Inclusion and Multicultural Education (ODIME)
+2 yrs 9 mos2 yrs 9 mos
+George Mason UniversityGeorge Mason University
+Technology and Equipment Coordinator
+Technology and Equipment Coordinator
+Sep 2014 - May 2017 · 2 yrs 9 mosSep 2014 to May 2017 · 2 yrs 9 mos
+The Technology & Equipment Coordinator is responsible for the following:
+• Hardware and software acquisition, research and evaluation 
+• Set-up equipment and perform maintenance and trouble-shooting
+• Install software and updates as needed
+• Maintain office equipment inventory 
+• Maintain website in collaboration with fulltime staff 
+• Provide technology support and training to staff and running errands as needed
+• Protect confidentiality of records and information 
+• Other duties as assigned
+The Technology & Equipment Coordinator is responsible for the following: • Hardware and software acquisition, research and evaluation • Set-up equipment and perform maintenance and trouble-shooting • Install software and updates as needed • Maintain office equipment inventory • Maintain website in collaboration with fulltime staff • Provide technology support and training to staff and running errands as needed • Protect confidentiality of records and information • Other duties as assigned
+Logistics Intern for the Student Transition Empowerment Program (STEP)
+Logistics Intern for the Student Transition Empowerment Program (STEP)
+Jun 2015 - Aug 2015 · 3 mosJun 2015 to Aug 2015 · 3 mos
+The Intern for Logistics was expected to:
+• Report to Assistant Director and Business Manager for supervision and evaluation of performance
+• Assist with educational programming initiatives and residence hall activities to enhance the student experience
+• Assist with preparation for STEP workshops, leadership series and receptions as needed
+• Inform supervisors and ODIME staff on issues relating to personal and/or student performance
+• Support the Assistant Coordinator for Logistics in all logistical components of the program including, monitoring and tracking spending, creating an academic calendar, maintaining academic spreadsheet, monitoring office/school supplies, coordinating special study halls as needed, organizing program photos and videos, and working on parent newsletter(s)
+• Support all safety and conduct regulations for STEP and George Mason University
+
+
+Peer Advisor/Instructor
+Peer Advisor/Instructor
+Peer Advisor/Instructor
+Center for Academic Advising, Retention and Transitions at George Mason UniversityCenter for Academic Advising, Retention and Transitions at George Mason University
+Jan 2016 - Dec 2016 · 1 yrJan 2016 to Dec 2016 · 1 yr
+Fairfax, VirginiaFairfax, Virginia
+Served as a co-teacher/instructor for a UNIV 150 course at George Mason University course for first year engineering students.
+
+Logistics Coordinator for the Student Transition Empowerment Program (STEP)
+Logistics Coordinator for the Student Transition Empowerment Program (STEP)
+Office of Diversity, Inclusion and Multicultural EducationOffice of Diversity, Inclusion and Multicultural Education
+May 2016 - Aug 2016 · 4 mosMay 2016 to Aug 2016 · 4 mos
+George Mason UniversityGeorge Mason University
+The Coordinator for Logistics was expected to:
+• Report to Assistant Director and Business Manager for supervision and evaluation of performance
+• Assist with educational programming initiatives and residence hall activities to enhance the student experience
+• Assist with preparation for STEP workshops, leadership series and receptions as needed
+• Inform supervisors and ODIME staff on issues relating to personal and/or student performance
+• Support the Assistant Coordinator for Logistics in all logistical components of the program including, monitoring and tracking spending, creating an academic calendar, maintaining academic spreadsheet, monitoring office/school supplies, coordinating special study halls as needed, organizing program photos and videos, and working on parent newsletter(s)
+• Support all safety and conduct regulations for STEP and George Mason University -->
