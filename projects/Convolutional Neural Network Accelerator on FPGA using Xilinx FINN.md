@@ -22,6 +22,7 @@ This PIXELS project (Processing In-Pixel-in-Memory for Efficient Low-energy Hete
 - [Xilinx/finn: Dataflow compiler for QNN inference on FPGAs](https://github.com/Xilinx/finn)
 - [FINN | finn](https://xilinx.github.io/finn/)
 - [BDD100K: A Large-scale Diverse Driving Video Database – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2018/05/30/bdd/)
+- [AMD Zynq UltraScale+ MPSoC ZCU104 Evaluation Kit](https://www.amd.com/en/products/adaptive-socs-and-fpgas/evaluation-boards/zcu104.html)
 
 <!-- - https://bdd-data.berkeley.edu/ --> 
 

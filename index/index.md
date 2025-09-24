@@ -12,6 +12,6 @@ blog_title: Latest from blog
 ---
 I am a computer hardware engineering with 5+ years of FPGA/ASIC design and machine learning experience. Currently I am working as a Senior FPGA Engineer at USC Information Sciences Institute. I actively develop for and research the latest Xilinx FPGA architectures (Versal, UltraScale+, Series 7) to provide full-device hardware assurance. I also support ASIC design efforts including SoC IP design, integration and verification. I've also worked with embedded systems and have experimented with NVIDIA Jetson, Raspberry Pi, Arduino, and microcontrollers.
 
-I am interested in opportunities to further expand my hardware experience through FPGA/ASIC designs for applications in interactive technologies such as mixed reality, AR glasses and biometric technologies.
+I am interested in opportunities to further expand my hardware experience through FPGA/ASIC designs for applications in interactive technologies such as mixed reality, biometrics and robotics.
 
 In my free time I love taking on hobby game development projects, exploring the National Parks, and taking care of my dogs Matcha and Mango!
